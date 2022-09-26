@@ -10,3 +10,5 @@ float data type
 double data type
 
 no more
+I have inserted this line: I love Java~!! 
+hahaha
